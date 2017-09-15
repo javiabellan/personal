@@ -16,9 +16,21 @@
 Total 1348€
 
 
-# Targeta gráfica
+## Targeta gráfica
 
-### AMD Radeon
+Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
+
+#### Nvidia
+
+|             | GTX 1060 | GTX 1070 | GTX 1080 | GTX 1080Ti |
+| ----------- | -------- | -------- | -------- | ---------- |
+| Núcleos     | 1280     | 1920     | 2560     | 3584       |
+| Memoria     | 6GB      | 8GB      | 8GB      | 11GB       |
+| Rendimiento | X TFLOPS | X TFLOPS | X TFLOPS | X TFLOPS   | 
+| Consumo     | 120W     | 150W     | 180W     | X W        |
+| Precio      | 255€     | 424€     | 519€     | X €        |
+
+#### AMD Radeon
 
 | 							| RX Vega FE	| Pro Vega 64	| Pro Vega 56   |
 | ------------------------- | ------------- | ------------- | ------------- |
@@ -33,28 +45,32 @@ Total 1348€
 | Power						| 300-375W		| ¿?			| ¿?			|
 | Price						| 999€			| Dic 2017		| Dic 2017		|
 
-### Nvidia
+## Procesador
 
+For Deep Learning, CPU is not that important, the rule of thumb is to have two or more threads (or cores) per GPU in your system. It is, however, important for Gaming and VR/AR. Full 40 PCIe lanes and correct PCIe spec (same as your motherboard); > 2GHz; cache does not matter;
 
-# Procesador
+ * i5-7600K  3.8 Ghz
+ * i5-7600 3.5 Ghz
+ * i5-7500 3.4 Ghz
+ * i5-7400 3.0 Ghz
 
- * Núcleos: 8 o 16
+## Memoria RAM
 
+The more RAM you have, the better. For deep learning, you should really have more than your total GPU RAM (combined RAM on all your GPUs) because typically you’d stream data from RAM to GPU memory (even though HDD to GPU RAM is also possible).
 
-# Memoria
+## Almacenamiento
 
-32 GB
-
-
-# Almacenamiento
-
- * SSD: 512BG o 1TB
+ * SSD: 512GB
  * HDD: 2TB
 
+## Placa base
 
+Several PCIe 3.0 slots (creo que deben ser x16e). I need several slots because I plan to add one or more GPU cards later. Also, I wanted it to support SLI because GTX 1080 could be linked together with SLI.
 
-Placa base
-----------
  * Chipset: Z270
  * Ranuras de RAM DDR4: 4
  * NVIDIA SLI: Sí
+ 
+## Fuente de energía
+
+GPUs + CPU + (100-300). GTX 1080 requires 180 W of power and recommended PSU is 500 W or greater. Since I plan on adding second card later (and just in case), I opted for 850 W power supply: Corsair RMx Series, RM850x
