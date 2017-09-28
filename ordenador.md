@@ -13,7 +13,7 @@
 | Refrigeración   | Ventilador              | Cooler Master Hyper 212X   | 31€    |
 | Caja            | ATX                     | La de Alberto              | 0€     |
 
-Total 1348€
+> Total ~**1315€**
 
 
 ## Targeta gráfica
