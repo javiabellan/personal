@@ -20,7 +20,7 @@
 
 Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 
-#### Nvidia
+#### Nvidia ([Guía](https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9))
 
 |               | GTX 1060 | GTX 1070 | GTX 1070ti | GTX 1080 | GTX 1080Ti |
 | ------------- | -------- | -------- | ---------- | -------- | ---------- |
