@@ -53,9 +53,10 @@ Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 
 |               | mi6        | mi8        | mi25       |
 | ------------- | ---------- | ---------- | ---------- |
-| Arquitectura  | CU         | CU         | nCU        |
-| Núcleos GCN   | 2304       | 4096       | 4096       |
-| Memoria       | 16GB GDDR5 | 4GB HBM1   | 16GB HBM2  |
+| Propósito     | Train      | Inference  | nextgenGPU |
+| Arquitectura  | Fiji       | Fiji       | Vega (nCU) |
+| Núcleos GCN   | **2304**   | 4096       | 4096       |
+| Memoria       | 16GB GDDR5 | **4GB** HBM1 | 16GB HBM2  |
 | Mem. bandwidh |	224 GB/s   | 512 GB/s   | 484 GB/s   |
 | Rendimiento   | 5.7 TFLOPS | 8.2 TFLOPS | 12.3-24.6  |
 | Core clocks   |            |            |            |
