@@ -24,7 +24,8 @@ Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 
 |               | GTX 1060 | GTX 1070 | GTX 1070ti | GTX 1080 | GTX 1080Ti |
 | ------------- | -------- | -------- | ---------- | -------- | ---------- |
-| Núcleos       | 1280     | 1920     | 2432       | 2560     | 3584       |
+| Arquitectur   | Pascal   | Pascal   | Pascal     | Pascal   | Pascal     |
+| Núcleos CUDA  | 1280     | 1920     | 2432       | 2560     | 3584       |
 | Memoria       | 6GB      | 8GB      | 8GB        | 8GB      | 11GB       |
 | Mem. bandwidh | 216 GB/s | 256 GB/s | 256 GB/s   | 320 GB/s | 484 GB/s   |
 | Rendimiento   | X TFLOPS | X TFLOPS |            | X TFLOPS | X TFLOPS   | 
@@ -33,7 +34,19 @@ Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 | Precio Nvidia | 300$     | 400$     | 450$       | 550$     | 700$       |
 | Precio PCComp | 260€     | 424€     | 469€       | 545€     | 740€       |
 
-#### AMD Radeon
+#### AMD
+
+|               | RX Vega 56 | RX Vega 64 | RX Vega RL |
+| ------------- | ---------- | ---------- | ---------- |
+| Arquitectura  | GCN 4.0    | GCN 4.0    | GCN 4.0    |
+| Núcleos GCN   | 3584       | 4096       | 4096       |
+| Memoria       | 8GB        | 8GB        | 8GB        |
+| Mem. bandwidh |	409.6 GB/s | 483.8 GB/s |            |
+| Rendimiento   | X TFLOPS   | X TFLOPS   |            |
+| Core clocks   |            |            |            |
+| Consumo       | 210W       | 295W       | 345W       |
+| Precio Nvidia | 300$       | 400$       | 450$       |
+| Precio PCComp | 260€       | 424€       | 469€       |
 
 | 							| RX Vega FE	| Pro Vega 64	| Pro Vega 56   |
 | ------------------------- | ------------- | ------------- | ------------- |
