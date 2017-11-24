@@ -34,7 +34,7 @@ Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 | Precio Nvidia | 300$     | 400$     | 450$       | 550$     | 700$       |
 | Precio PCComp | 260€     | 424€     | 469€       | 545€     | 740€       |
 
-#### AMD
+#### AMD Vega RX
 
 |               | RX Vega 56 | RX Vega 64 | RX Vega RL |
 | ------------- | ---------- | ---------- | ---------- |
@@ -47,6 +47,22 @@ Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 | Consumo       | 210W       | 295W       | 345W       |
 | Precio        |            |            |            |
 | Precio PCComp | 549€       | 599€       | 709€       |
+
+
+#### AMD Instint Mi
+
+|               | mi6        | mi8        | mi25       |
+| ------------- | ---------- | ---------- | ---------- |
+| Arquitectura  | CU         | CU         | nCU        |
+| Núcleos GCN   | 2304       | 4096       | 4096       |
+| Memoria       | 16GB GDDR5 | 4GB HBM1   | 16GB HBM2  |
+| Mem. bandwidh |	224 GB/s   | 512 GB/s   | 484 GB/s   |
+| Rendimiento   | 5.7 TFLOPS | 8.2 TFLOPS | 12.3-24.6  |
+| Core clocks   |            |            |            |
+| Consumo       |            |            |            |
+| Precio        |            |            |            |
+| Precio PCComp |            |            |            |
+
 
 | 							| RX Vega FE	| Pro Vega 64	| Pro Vega 56   |
 | ------------------------- | ------------- | ------------- | ------------- |
