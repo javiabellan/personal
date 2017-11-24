@@ -46,7 +46,7 @@ Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 | Core clocks   |            |            |            |
 | Consumo       | 210W       | 295W       | 345W       |
 | Precio Nvidia | 300$       | 400$       | 450$       |
-| Precio PCComp | 260€       | 424€       | 469€       |
+| Precio PCComp | 549€       | 599€       | 709€       |
 
 | 							| RX Vega FE	| Pro Vega 64	| Pro Vega 56   |
 | ------------------------- | ------------- | ------------- | ------------- |
