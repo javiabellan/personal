@@ -3,7 +3,7 @@
 
 | Componente      | Prestaciones            | Modelo                     | Precio |
 | --------------- | ----------------------- | -------------------------- | ------ |
-| Targeta gráfica | GTX 1080, 2560 cores    | Gigabyte Windforce OC      | 509€ < 519€ < [550€](https://www.pccomponentes.com/gigabyte-geforce-gtx-1080-windforce-oc-8gb-gddr5)   |
+| Targeta gráfica | GTX 1080, 2560 cores    | Gigabyte Windforce OC      | 509€ < 519€ < [545€](https://www.pccomponentes.com/gigabyte-geforce-gtx-1080-windforce-oc-8gb-gddr5)   |
 | Procesador      | 4 cores, 3.8 Ghz        | Intel Core i5 7600K        | [207€](https://www.pccomponentes.com/intel-core-i5-7600k-38ghz-box)   |
 | RAM 16GB        | 16 GB, DDR4-3200, CL16  | Corsair Vengeance LPX      | 140€ < 159€ < [186€](https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200-pc4-25600-16gb-2x8gb-cl16)   |
 | SSD 500GB       | 500 GB, SATA3, 540 Mb/s | Samsung 850 EVO            | [152€](https://www.pccomponentes.com/samsung-850-evo-ssd-series-500gb--sata3) < 156€   |
@@ -22,13 +22,16 @@ Se debe maximizar el número de núcleos CUDA y la cantidad de memoria.
 
 #### Nvidia
 
-|             | GTX 1060 | GTX 1070 | GTX 1080 | GTX 1080Ti |
-| ----------- | -------- | -------- | -------- | ---------- |
-| Núcleos     | 1280     | 1920     | 2560     | 3584       |
-| Memoria     | 6GB      | 8GB      | 8GB      | 11GB       |
-| Rendimiento | X TFLOPS | X TFLOPS | X TFLOPS | X TFLOPS   | 
-| Consumo     | 120W     | 150W     | 180W     | X W        |
-| Precio      | 255€     | 424€     | 519€     | X €        |
+|               | GTX 1060 | GTX 1070 | GTX 1070ti | GTX 1080 | GTX 1080Ti |
+| ------------- | -------- | -------- | ---------- | -------- | ---------- |
+| Núcleos       | 1280     | 1920     | 2432       | 2560     | 3584       |
+| Memoria       | 6GB      | 8GB      | 8GB        | 8GB      | 11GB       |
+| Mem. bandwidh | 216 GB/s | 256 GB/s | 256 GB/s   | 320 GB/s | 484 GB/s   |
+| Rendimiento   | X TFLOPS | X TFLOPS |            | X TFLOPS | X TFLOPS   | 
+| Core clocks   | ~ 2,19 M | ~ 3,23 M | ~ 4,09 M   | ~ 4,44 M | ~ 5.67 M   | 
+| Consumo       | 120W     | 150W     |            | 180W     | X W        |
+| Precio Nvidia | 300$     | 400$     | 450$       | 550$     | 700$       |
+| Precio PCComp | 260€     | 424€     | 469€       | 545€     | 740€       |
 
 #### AMD Radeon
 
