@@ -3,10 +3,10 @@
 
 | Componente      | Prestaciones            | Modelo                     | Precio |
 | --------------- | ----------------------- | -------------------------- | ------ |
-| Targeta gráfica | GTX 1080, 2560 cores    | Gigabyte Windforce OC      | [509€](https://www.pccomponentes.com/gigabyte-geforce-gtx-1080-windforce-oc-8gb-gddr5)   |
+| Targeta gráfica | GTX 1080, 2560 cores    | Gigabyte Windforce OC      | ~~509€~~ > ~~519€~~ > [550€](https://www.pccomponentes.com/gigabyte-geforce-gtx-1080-windforce-oc-8gb-gddr5)   |
 | Procesador      | 4 cores, 3.8 Ghz        | Intel Core i5 7600K        | [207€](https://www.pccomponentes.com/intel-core-i5-7600k-38ghz-box)   |
 | RAM 16GB        | 16 GB, DDR4-3200, CL16  | Corsair Vengeance LPX      | ~~140€~~ > ~~159€~~ > [186€](https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200-pc4-25600-16gb-2x8gb-cl16)   |
-| SSD 500GB       | 500 GB, SATA3, 540 Mb/s | Samsung 850 EVO            | [156€](https://www.pccomponentes.com/samsung-850-evo-ssd-series-500gb--sata3)   |
+| SSD 500GB       | 500 GB, SATA3, 540 Mb/s | Samsung 850 EVO            | [152€](https://www.pccomponentes.com/samsung-850-evo-ssd-series-500gb--sata3)   |
 | Placa madre     | Z270 ATX                | Gigabyte GA-Z270-HD3P      | [115€](https://www.pccomponentes.com/gigabyte-ga-z270-hd3p)   |
 | HDD 2TB         | 2TB, SATA3, 7200rpm     | Seagate Barracuda          | [76€](https://www.pccomponentes.com/seagate-desktop-720014-2tb-sata3-64mb)    |
 | Fuente energía  | 650W                    | Corsair VS                 | 60€    |
