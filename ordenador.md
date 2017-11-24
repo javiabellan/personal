@@ -8,7 +8,7 @@
 | RAM 16GB        | 16 GB, DDR4-3200, CL16  | Corsair Vengeance LPX      | ~~140€~~ < ~~159€~~ < [186€](https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200-pc4-25600-16gb-2x8gb-cl16)   |
 | SSD 500GB       | 500 GB, SATA3, 540 Mb/s | Samsung 850 EVO            | [152€](https://www.pccomponentes.com/samsung-850-evo-ssd-series-500gb--sata3) < 156€   |
 | Placa madre     | Z270 ATX                | Gigabyte GA-Z270-HD3P      | [96€](https://www.pccomponentes.com/gigabyte-ga-z270-hd3p) < ~~115€~~  |
-| HDD 2TB         | 2TB, SATA3, 7200rpm     | Seagate Barracuda          | [76€](https://www.pccomponentes.com/seagate-desktop-720014-2tb-sata3-64mb)    |
+| HDD 2TB         | 2TB, SATA3, 7200rpm     | Seagate Barracuda          | [70€](https://www.pccomponentes.com/seagate-barracuda-35-2tb-sata3)    |
 | Fuente energía  | 650W                    | Corsair VS                 | 60€    |
 | Refrigeración   | Ventilador              | Cooler Master Hyper 212X   | 31€    |
 | Caja            | ATX                     | La de Alberto              | 0€     |
