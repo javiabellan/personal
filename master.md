@@ -11,14 +11,15 @@ Itinerario: Sistemas Inteligentes e Informática Médica.
 
 Tipo | Asignatura | 1º cuat. | 2º cuat.
 -- | --| -- | --
-Del plan | Sistemas de Información Biomédicos | 6 |
-Del plan | Inteligencia de Negocio | 6 |
-Del plan | Análisis Inteligente de Datos | | 6
-Del plan | Técnicas Avanzadas para Sistemas Inteligentes | | 6
+Itinerario | Inteligencia de negocio | 6 |
+Itinerario | Sistemas de información biomédicos | 6 |
+Itinerario | Web Semántica | 6 |
 Obligatoria | Gestión de proyectos I+D+i | 6 |
-De otro plan | Web Semántica | 6 |
-De otro plan | *A elegir* |  |
-TFM | Trabajo Fin de Máster | | 18
+Itinerario | Análisis inteligente de datos | | 6
+Itinerario | Técnicas avanzadas para sistemas inteligentes | | 6
+Optativa | *A elegir* |  |
+TFM | Trabajo fin de máster | | 18
+
 
 ## Inteligencia de negocio
 * Metodologías para obtención de conocimiento desde datos
@@ -33,7 +34,8 @@ TFM | Trabajo Fin de Máster | | 18
 * Charlas: informático de un hospital y empresa de inteligencia de negocio  (por
 confirmar)
 
-## Sistemas de información Biomédicos
+
+## Sistemas de información biomédicos
 * Bioseñales.
 * Imagen médica.
 * Historia clínica electrónica.
@@ -44,5 +46,40 @@ confirmar)
 * Conferencias: médico y empresa de informática médica (por confirmar).
 
 
+## Web semántica
+* Ontologías
+* Tecnologías de la web semántica
+* Estándares y arquitectura de la web semántica (W3C)
+#### ¿Qué vamos a hacer?
+* Desarrollo de ontologías.
+* Herramienta Protégé OWL
 
--
+
+## Análisis inteligente de datos
+* De los datos al conocimiento
+* Aprendizaje computacional
+* Algoritmos genéticos
+* Procesamiento de señales
+* Evaluación de algoritmos
+#### ¿Qué vamos a hacer?
+* Aplicación de técnicas de inteligencia artificial
+* Construcción de modelos a partir de datos biomédicos
+
+
+## Técnicas avanzadas de sistemas inteligentes
+* Metodologías de desarrollo de sistemas inteligentes.
+* Razonamiento probabilístico, temporal, espacial y basado en casos.
+* Validación de sistemas inteligentes.
+#### ¿Qué vamos a hacer?
+* Análisis y diseño de un sistema inteligente.
+* Implementación de un sistema inteligente (opcional)
+
+
+## Trabajo fin de máster
+* Sistemas Inteligentes de Ayuda la Decisión.
+* Minería de datos.
+* Visualización de datos.
+* Análisis inteligente de bioseñales.
+* Procesamiento de imágenes en medicina.
+* Aplicaciones en cronobiología.
+* Aplicaciones en neurología.
