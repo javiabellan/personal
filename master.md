@@ -4,6 +4,7 @@
 * Duración: 1 año (60 créditos)
 * Precio: ¿?
 * Idioma: Español, excepto Web Semántica en inglés.
+* Con acceso al doctorado
 
 ### Plan de estudios
 
@@ -17,7 +18,7 @@ Itinerario | Web Semántica | 6 |
 Obligatoria | Gestión de proyectos I+D+i | 6 |
 Itinerario | Análisis inteligente de datos | | 6
 Itinerario | Técnicas avanzadas para sistemas inteligentes | | 6
-Optativa | *A elegir* |  |
+Optativa | Progr. Avanzada de Arquitecturas Multinúcleo |  | 6
 TFM | Trabajo fin de máster | | 18
 
 
@@ -83,3 +84,23 @@ confirmar)
 * Procesamiento de imágenes en medicina.
 * Aplicaciones en cronobiología.
 * Aplicaciones en neurología.
+
+---
+
+## Optativa: Progr. Avanzada de Arquitecturas Multinúcleo (2o cuatri)
+* Aprender a programar en CUDA y en OpenCL.
+* Enseñar a utilizar patrones de diseño paralelos para resolver un problema.
+* Obtener el máximo rendimiento de las actuales arquitecturas multinúcleo, así como de las GPUs.
+#### ¿Qué vamos a hacer?
+* La asignatura será eminentemente práctica y estará dividida en dos partes diferenciadas:
+  * Programación de tarjetas NVIDIA con CUDA.
+  * Programación de entornos heterogéneos (multicores+GPUs) con OpenCL.
+* Utilizaremos máquinas con procesadores de varios núcleos y tarjetas con soporte CUDA.
+
+
+## Contacto: 
+Para pedir información sobre la especialización de IA-medicina del master:
+* José M. Juárez (jmjuarez@um.es)
+
+## Enlaces
+* [Página web](http://www.um.es/informatica/index.php?pagina=master_nti_-_descripcion_del_titulo)
