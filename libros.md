@@ -36,8 +36,11 @@
 * David Chalmers
 * Douglas Hofstadter
 * Libro: Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts
-* Libro 2012: Phi: A Voyage from the Brain to the Soul
+* Giulio Tononi 2012: Phi: A Voyage from the Brain to the Soul
 
+## IA
+* Superintelligence: Paths, Dangers, Strategies
+* Pedro Domingos’s The Master Algorithm
 
 ## Didácticos
 
