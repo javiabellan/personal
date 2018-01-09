@@ -39,6 +39,7 @@
 * Douglas Hofstadter
 * Stanislas Dehaene
   * Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts (2014)
+  * La conciencia en el cerebro: Descifrando el enigma de cómo el cerebro elabora nuestros pensamientos
 * Giulio Tononi
   * Phi: A Voyage from the Brain to the Soul (2012)
 
