@@ -97,3 +97,4 @@ Por Philip C Jackson
 * [Libros neurociencia](https://www.imf-formacion.com/blog/corporativo/neuropsicologia/libros-sobre-neurociencia/)
 * [Otros libros neurociencia](https://psicologiaymente.net/cultura/libros-neurociencias-principiantes)
 * [Libors Bill Gates](https://www.gatesnotes.com/Books)
+* [The Must-Read Brain Books Of 2017](https://www.forbes.com/sites/daviddisalvo/2017/12/18/the-must-read-brain-books-of-2017/#761d3d553354)
