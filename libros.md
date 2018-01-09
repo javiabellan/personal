@@ -32,11 +32,15 @@
 ## Conciencia
 
 * Christof Koch
+  * Consciousness: Confessions of a Romantic Reductionist (2012)
 * Daniel Dennett
+  * De las bacterias a bach (2017)
 * David Chalmers
 * Douglas Hofstadter
-* Libro: Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts
-* Giulio Tononi 2012: Phi: A Voyage from the Brain to the Soul
+* Stanislas Dehaene
+  * Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts (2014)
+* Giulio Tononi
+  * Phi: A Voyage from the Brain to the Soul (2012)
 
 ## IA
 * Superintelligence: Paths, Dangers, Strategies
