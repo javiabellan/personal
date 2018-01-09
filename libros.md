@@ -12,6 +12,10 @@
 
 ![portada](https://blog.signifai.io/wp-content/uploads/2017/03/How-to-Create-a-Mind-The-Secret-of-Human-Thought-Revealed-by-Ray-Kurzweil-197x300.jpg)
 
+## La vida secreta de  la mente
+* Autor: Mariano Sigman (Neurocientífico)
+* Año: 2015
+* [PDF](https://kupdf.com/download/vida-secreta-de-la-mente-la-mariano-sigmanpdf_5960a050dc0d60fc6b2be312_pdf)
 
 ### Homo Deus: Breve historia del mañana
 * Autor: Yuval Noah Harari
@@ -29,19 +33,39 @@
 * Autor: Peter Godfrey-Smith (Filósofo)
 * Año: 2017
 
+## Behave: The Biology of Humans at Our Best and Worst
+* Autor: Robert M. Sapolsky
+* Año: 2017
+
 ## Conciencia
 
 * Christof Koch
-  * Consciousness: Confessions of a Romantic Reductionist (2012)
+  * The quest for consciousness: a neurobiological approach (2004) (es más técnico)
+  * Consciousness: Confessions of a Romantic Reductionist (2012) **2o**
 * Daniel Dennett
+  * Consciousness Explained (1992)
   * De las bacterias a bach (2017)
 * David Chalmers
 * Douglas Hofstadter
 * Stanislas Dehaene
-  * Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts (2014)
+  * Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts (2014) **1o**
   * La conciencia en el cerebro: Descifrando el enigma de cómo el cerebro elabora nuestros pensamientos
+  * [PDF](http://raulkoffman.com/wp-content/uploads/2012/07/Dehaene-Stanislas-LA-CONCIENCIA-EN-EL-CEREBRO.pdf)
 * Giulio Tononi
-  * Phi: A Voyage from the Brain to the Soul (2012)
+  * Phi: A Voyage from the Brain to the Soul (2012) **3o**
+  * A Universe Of Consciousness: How Matter Becomes Imagination (2000)
+* Paul L. Nunez
+  * The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self (2016)
+
+## otros nuevos
+* How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett) (2017) creo q es malillo
+* Reductionism in Art and Brain Science: Bridging the Two Cultures (2016)
+* Origins of Consciousness: How the Search to Understand the Nature of Consciousness is Leading to a New View of Reality (2015)
+* The Big Picture: On the Origins of Life, Meaning, and the Universe Itself (2016) (Sean Carroll)
+* EXTRA, DIBUJOS: Beautiful Brain: The Drawings of Santiago Ramon y Cajal 
+
+## Neurociencia
+* The Neuroscience of Intelligence (Richard J. Haier, psicólogo) (2016)
 
 ## IA
 * Superintelligence: Paths, Dangers, Strategies
