@@ -65,4 +65,5 @@ Por Philip C Jackson
 
 * [libros IA](https://blog.signifai.io/7-artificial-intelligence-books-read-today/)
 * [Libros neurociencia](https://www.imf-formacion.com/blog/corporativo/neuropsicologia/libros-sobre-neurociencia/)
+* [Otros libros neurociencia](https://psicologiaymente.net/cultura/libros-neurociencias-principiantes)
 * [Libors Bill Gates](https://www.gatesnotes.com/Books)
