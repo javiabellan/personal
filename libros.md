@@ -64,6 +64,7 @@ Por Philip C Jackson
 ## Referencias
 
 * [libros IA](https://blog.signifai.io/7-artificial-intelligence-books-read-today/)
+* [Libros conciencia](https://www.theguardian.com/books/2017/sep/20/top-10-books-about-consciousness)
 * [Libros neurociencia](https://www.imf-formacion.com/blog/corporativo/neuropsicologia/libros-sobre-neurociencia/)
 * [Otros libros neurociencia](https://psicologiaymente.net/cultura/libros-neurociencias-principiantes)
 * [Libors Bill Gates](https://www.gatesnotes.com/Books)
