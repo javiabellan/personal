@@ -12,7 +12,11 @@
 
 ![portada](https://blog.signifai.io/wp-content/uploads/2017/03/How-to-Create-a-Mind-The-Secret-of-Human-Thought-Revealed-by-Ray-Kurzweil-197x300.jpg)
 
-## La vida secreta de  la mente
+### El universo en tu mano un viaje extraordinario a los límites del tiempo y el espacio
+* Autor: Christophe Galfard
+* Año: 2015
+
+### La vida secreta de  la mente
 * Autor: Mariano Sigman (Neurocientífico)
 * Año: 2015
 * [PDF](https://kupdf.com/download/vida-secreta-de-la-mente-la-mariano-sigmanpdf_5960a050dc0d60fc6b2be312_pdf)
@@ -33,11 +37,11 @@
 * Autor: Peter Godfrey-Smith (Filósofo)
 * Año: 2017
 
-## Behave: The Biology of Humans at Our Best and Worst
+### Behave: The Biology of Humans at Our Best and Worst
 * Autor: Robert M. Sapolsky
 * Año: 2017
 
-## Yo contengo multitudes: Los microbios que nos habitan y una visión más amplia de la vida
+### Yo contengo multitudes: Los microbios que nos habitan y una visión más amplia de la vida
 * Autor: Ed Yong
 * Año: 2017
 * Recomndado por Bill Gates
@@ -80,6 +84,7 @@
 
 
 ## IA
+* Life 3.0. Being Human in the Age of Artificial Intelligence **BUENO**
 * Superintelligence: Paths, Dangers, Strategies
 * Pedro Domingos’s The Master Algorithm
 
