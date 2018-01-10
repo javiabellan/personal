@@ -66,6 +66,12 @@
 * Paul L. Nunez
   * The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self (2016)
 
+## Física
+
+* El universo elegante
+* El Gran Cuadro: Los Origenes De La Vida Su...
+* El universo en tu mano un viaje extraordinario a los límites del tiempo y el espacio
+
 ## otros nuevos
 * How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett) (2017) creo q es malillo
 * Reductionism in Art and Brain Science: Bridging the Two Cultures (2016)
