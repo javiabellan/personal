@@ -37,6 +37,11 @@
 * Autor: Robert M. Sapolsky
 * Año: 2017
 
+## Yo contengo multitudes: Los microbios que nos habitan y una visión más amplia de la vida
+* Autor: Ed Yong
+* Año: 2017
+* Recomndado por Bill Gates
+
 ## Conciencia
 
 * Christof Koch
@@ -65,7 +70,14 @@
 * EXTRA, DIBUJOS: Beautiful Brain: The Drawings of Santiago Ramon y Cajal 
 
 ## Neurociencia
+* Principles of Neural Design (2015) **BUENO**
+* Principles of Neural Science
 * The Neuroscience of Intelligence (Richard J. Haier, psicólogo) (2016)
+
+## Aprender neurociencia
+* Cognitive Neuroscience (Gazzaniga) **1a lectura**
+* The Future of the Brain: Essays by the World's Leading Neuroscientists **2a lectura**
+
 
 ## IA
 * Superintelligence: Paths, Dangers, Strategies
