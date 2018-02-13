@@ -1,3 +1,8 @@
+# Referencias
+#
+# https://neurite.github.io/debian-setup/
+
+
 # Instalar Gnome
 
 apt-get install gdm3                 # The display manager
@@ -32,3 +37,5 @@ apt-get -q -y install python python-dev python-pip python3 python3-dev python3-p
 
 
 apt-get -q -y install git          # git
+
+
