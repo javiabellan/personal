@@ -1,11 +1,13 @@
 # Instalar Gnome
 
-apt-get install gdm3apt-get install  # The display manager
+apt-get install gdm3                 # The display manager
 apt-get install gnome-session        # The session manager
-apt-get install gnome-shell
+apt-get install gnome-shell          # Gnome shell
 apt-get install gnome-keyring libpam-gnome-keyring \
 apt-get install network-manager-gnome \
 apt-get install pulseaudio           # Audio
+
+# Aplicaciones Gnome
 apt-get install gnome-terminal       # Aplicación terminal
 apt-get install gnome-control-center # Aplicación ajustes
 apt-get install gnome-tweak-tool     # Aplicación retoques
